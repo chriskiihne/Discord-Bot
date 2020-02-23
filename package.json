@@ -5,6 +5,6 @@
   "engines": {
     "node": "12.x",
     "npm": "*",
-    "discord.js”: “^11.3.2",
+    "discord.js”: “^11.3.2"
   }
 }

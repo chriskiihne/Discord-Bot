@@ -3,6 +3,8 @@
   "description": "a really cool app",
   "version": "1.0.0",
   "engines": {
-    "node": "12.13.0"
+    "node": "12.x",
+    "npm": "*",
+    "discord.js": "^11.3.2"
   }
 }
